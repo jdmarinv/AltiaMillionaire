@@ -1,0 +1,458 @@
+{
+  "games": [
+    {
+      "questions": [
+        {
+          "question": "¿Cuál es la capital de Francia?",
+          "content": [
+            "Londres",
+            "Berlín",
+            "Madrid",
+            "París"
+          ],
+          "correct": 2
+        },
+        {
+          "question": "¿En ServiceNow, qué es un 'incidente'?",
+          "content": [
+            "Una tarea planificada",
+            "Un problema técnico reportado",
+            "Una solicitud de cambio",
+            "Una reunión programada"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "¿Cuál es el elemento más abundante en la atmósfera de la Tierra?",
+          "content": [
+            "Oxígeno",
+            "Nitrógeno",
+            "Dióxido de Carbono",
+            "Hidrógeno"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "¿Qué director dirigió la película 'Pulp Fiction'?",
+          "content": [
+            "Steven Spielberg",
+            "Quentin Tarantino",
+            "Martin Scorsese",
+            "Christopher Nolan"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "¿Qué banda es conocida como 'Los cuatro de Liverpool'?",
+          "content": [
+            "The Who",
+            "The Rolling Stones",
+            "The Beatles",
+            "Pink Floyd"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "¿Cuál es el superhéroe más conocido de DC Comics?",
+          "content": [
+            "Spider-Man",
+            "Iron Man",
+            "Batman",
+            "Captain America"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "¿En qué año se publicó el primer capítulo de 'Naruto' en la revista Weekly Shōnen Jump?",
+          "content": [
+            "1995",
+            "1997",
+            "1999",
+            "2001"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "¿Qué tabla se utiliza para definir los campos de una tabla en ServiceNow?",
+          "content": [
+            "Sys_table",
+            "Sys_properties",
+            "Sys_dictionary",
+            "Sys_fields"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "¿Cuál es la moneda oficial de Japón?",
+          "content": [
+            "Yuan",
+            "Yen",
+            "Won",
+            "Dólar"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "¿Quién compuso la famosa pieza 'Claro de Luna'?",
+          "content": [
+            "Mozart",
+            "Chopin",
+            "Beethoven",
+            "Bach"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "¿Qué película ganó el premio a la Mejor Película en los Oscar de 1994?",
+          "content": [
+            "Forrest Gump",
+            "Pulp Fiction",
+            "The Shawshank Redemption",
+            "Quiz Show"
+          ],
+          "correct": -1
+        },
+        {
+          "question": "¿Qué personaje de cómic es conocido como el 'Hombre Murciélago'?",
+          "content": [
+            "Spider-Man",
+            "Batman",
+            "Superman",
+            "Iron Man"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "¿Cuál es el nombre del protagonista en el manga y anime 'Attack on Titan'?",
+          "content": [
+            "Naruto",
+            "Ichigo",
+            "Eren Yeager",
+            "Luffy"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "En ServiceNow, ¿qué se utiliza para automatizar flujos de trabajo?",
+          "content": [
+            "Business Rules",
+            "Flow Designer",
+            "Script Includes",
+            "UI Policies"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "¿Cuál es el idioma oficial de Brasil?",
+          "content": [
+            "Español",
+            "Portugués",
+            "Inglés",
+            "Francés"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "¿Qué famoso músico fue asesinado frente a su casa en Nueva York en 1980?",
+          "content": [
+            "Elvis Presley",
+            "Kurt Cobain",
+            "John Lennon",
+            "Jimi Hendrix"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "¿Quién es el creador de los personajes de Marvel como Spider-Man, Iron Man y Thor?",
+          "content": [
+            "Frank Miller",
+            "Stan Lee",
+            "Jack Kirby",
+            "Joe Simon"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "¿Quién es el autor de 'One Piece'?",
+          "content": [
+            "Akira Toriyama",
+            "Masashi Kishimoto",
+            "Eiichiro Oda",
+            "Tite Kubo"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "En ServiceNow, ¿cuál es la herramienta que permite a los desarrolladores escribir y probar scripts?",
+          "content": [
+            "Script Debugger",
+            "Script Console",
+            "Studio",
+            "Automation Console"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "¿Cuál es la montaña más alta del mundo?",
+          "content": [
+            "Kilimanjaro",
+            "K2",
+            "Mount McKinley",
+            "Mount Everest"
+          ],
+          "correct": 2
+        },
+        {
+          "question": "¿Qué banda es famosa por la canción 'Stairway to Heaven'?",
+          "content": [
+            "The Beatles",
+            "Led Zeppelin",
+            "Pink Floyd",
+            "The Rolling Stones"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "¿Qué superhéroe es conocido como el 'Hombre de Acero'?",
+          "content": [
+            "Batman",
+            "Superman",
+            "Iron Man",
+            "Thor"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "¿Cuál es el nombre de la protagonista en el manga y anime 'Sailor Moon'?",
+          "content": [
+            "Asuka",
+            "Usagi Tsukino",
+            "Rei Ayanami",
+            "Sakura Kinomoto"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "En ServiceNow, ¿qué representa una 'Tabla'?",
+          "content": [
+            "Una interfaz de usuario",
+            "Una colección de registros",
+            "Una regla de negocio",
+            "Una tarea programada"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "¿Cuál es el planeta más grande del sistema solar?",
+          "content": [
+            "Saturno",
+            "Júpiter",
+            "Urano",
+            "Neptuno"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "¿Quién es el compositor de 'La quinta sinfonía'?",
+          "content": [
+            "Mozart",
+            "Beethoven",
+            "Chopin",
+            "Brahms"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "¿Qué actriz interpretó el papel principal en la película 'Wonder Woman'?",
+          "content": [
+            "Scarlett Johansson",
+            "Gal Gadot",
+            "Margot Robbie",
+            "Jennifer Lawrence"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "¿Cuál es el nombre del protagonista en el manga y anime 'Death Note'?",
+          "content": [
+            "L",
+            "Ichigo Kurosaki",
+            "Light Yagami",
+            "Naruto Uzumaki"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "¿En ServiceNow, qué es una 'Regla de Negocio' (Business Rule)?",
+          "content": [
+            "Un reporte predefinido",
+            "Una tabla de datos",
+            "Un script que se ejecuta cuando un registro es mostrado, insertado, actualizado o borrado",
+            "Una política de interfaz de usuario"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "¿En qué país se encuentra la Torre Eiffel?",
+          "content": [
+            "Italia",
+            "Alemania",
+            "Francia",
+            "España"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "¿Quién es el cantante principal de la banda 'Queen'?",
+          "content": [
+            "Mick Jagger",
+            "David Bowie",
+            "Freddie Mercury",
+            "John Lennon"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "¿Qué personaje de Marvel es conocido como el 'Hechicero Supremo'?",
+          "content": [
+            "Thor",
+            "Doctor Strange",
+            "Wolverine",
+            "Spider-Man"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "¿Cuál es el nombre del protagonista en el manga y anime 'My Hero Academia'?",
+          "content": [
+            "Goku",
+            "Luffy",
+            "Izuku Midoriya",
+            "Saitama"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "En ServiceNow, ¿qué es una 'Actualización de Sistema' (System Update)?",
+          "content": [
+            "Una tabla nueva",
+            "Una copia de seguridad del sistema",
+            "Una versión mejorada o parcheada del sistema",
+            "Una regla de negocio"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "¿Cuál es el río más largo del mundo?",
+          "content": [
+            "Río Mississippi",
+            "Río Nilo",
+            "Río Amazonas",
+            "Río Yangtsé"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "¿Quién es el autor de la famosa canción 'Imagine'?",
+          "content": [
+            "Paul McCartney",
+            "John Lennon",
+            "Elton John",
+            "Mick Jagger"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "¿Qué personaje de DC Comics es conocido como el 'Caballero Oscuro'?",
+          "content": [
+            "Superman",
+            "Flash",
+            "Batman",
+            "Green Lantern"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "¿Cuál es el nombre del protagonista en el manga y anime 'Dragon Ball'?",
+          "content": [
+            "Naruto Uzumaki",
+            "Ichigo Kurosaki",
+            "Luffy",
+            "Goku"
+          ],
+          "correct": 2
+        },
+        {
+          "question": "En ServiceNow, ¿qué es una 'Actualización Set' (Update Set)?",
+          "content": [
+            "Un grupo de cambios personalizados",
+            "Una nueva versión del sistema",
+            "Una tarea programada",
+            "Una regla de negocio"
+          ],
+          "correct": -1
+        },
+        {
+          "question": "¿En qué país se encuentra la Gran Muralla?",
+          "content": [
+            "Japón",
+            "India",
+            "China",
+            "Corea"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "¿Qué banda es famosa por el álbum 'The Dark Side of the Moon'?",
+          "content": [
+            "The Beatles",
+            "Led Zeppelin",
+            "Pink Floyd",
+            "The Rolling Stones"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "¿Qué superhéroe es conocido como el 'Hombre Araña'?",
+          "content": [
+            "Batman",
+            "Spider-Man",
+            "Superman",
+            "Iron Man"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "¿Cuál es el nombre del protagonista en el manga y anime 'One Punch Man'?",
+          "content": [
+            "Naruto",
+            "Saitama",
+            "Ichigo",
+            "Luffy"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "En ServiceNow, ¿cuál es el objetivo de un 'Informe' (Report)?",
+          "content": [
+            "Automatizar procesos",
+            "Definir campos de tabla",
+            "Visualizar datos en varios formatos",
+            "Ejecutar scripts complejos"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "¿En qué país se encuentra el Coliseo?",
+          "content": [
+            "España",
+            "Francia",
+            "Grecia",
+            "Italia"
+          ],
+          "correct": 2
+        }
+      ]
+    }
+  ]
+}
