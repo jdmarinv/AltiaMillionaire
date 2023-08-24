@@ -1,0 +1,103 @@
+body {
+  font-family: 'Helvetica', sans-serif;
+  background-color: #000000;
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.main-container {
+  max-width: 1000px;
+  margin: auto;
+  background-color: #000000;
+  padding: 30px;
+  color: #ffffff;
+}
+
+.team-selection,
+.game-status-container,
+.help-buttons,
+.question-container,
+.answer-container,
+.scoreboard {
+  margin-bottom: 20px;
+}
+
+.help-buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.timer {
+  padding: 10px;
+  font-size: 24px;
+  background-color: #333333;
+  color: #ffffff;
+  text-align: center;
+}
+
+.answers li {
+  padding: 10px;
+  background-color: #333333;
+  margin-bottom: 10px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.answers li:hover {
+  background-color: #555555;
+}
+
+.answers li.correct {
+  background-color: #28a745;
+}
+
+.answers li.incorrect {
+  background-color: #dc3545;
+}
+
+.hidden {
+  display: none;
+}
+
+.next-question-container {
+  text-align: center;
+}
+
+.scoreboard {
+  margin-top: 20px;
+}
+
+.next-team {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  background-color: #17a2b8;
+  color: #ffffff;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+}
+
+.next-team:hover {
+  background-color: #138f99;
+}
+
+@media (max-width: 600px) {
+  .answers li {
+    font-size: 14px;
+  }
+
+  .timer {
+    font-size: 18px;
+  }
+
+  .main-container {
+    padding: 15px;
+  }
+}
