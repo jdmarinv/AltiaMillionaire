@@ -1,0 +1,47 @@
+/* Estilos generales para el juego */
+body {
+  font-family: Arial, sans-serif;
+  background-color: hsl(184, 89%, 50%);
+}
+
+#contenedor-juego {
+  margin: 20px;
+}
+
+#respuestas button {
+  padding: 10px;
+  margin: 5px;
+}
+
+#ayudas button {
+  background-color: #f1c40f;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+#ayudas button:disabled {
+  background-color: #7f8c8d;
+}
+
+
+.girar-btn {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.girar-btn[disabled] {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+.resultado {
+  text-align: center;
+  font-size: 24px;
+  margin: 20px;
+}

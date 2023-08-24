@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Juego de Ruleta</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/estilos.css">
+  <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+</head>
+
+<body>
+  <div class="container" id="contenedor-juego">
+    <div class="row">
+      <div class="col-md-6">
+        <div class="contenedor-ruleta">
+          <div class="ruleta"></div>
+        </div>
+        <button class="btn btn-primary" id="jugar" onclick="jugar()">Jugar</button>
+      </div>
+      <div class="col-md-6" id="pregunta">
+        <h2 id="question">Pregunta...</h2>
+        <div id="respuestas" class="btn-group-vertical">
+          <button class="btn btn-default a" onclick="responder(0)">A: ...</button>
+          <button class="btn btn-default b" onclick="responder(1)">B: ...</button>
+          <button class="btn btn-default c" onclick="responder(2)">C: ...</button>
+          <button class="btn btn-default d" onclick="responder(3)">D: ...</button>
+        </div>
+      </div>
+    </div>
+    <div class="row" id="ayudas">
+      <div class="col-md-12">
+        <button class="btn btn-info" onclick="ayuda5050()">50:50</button>
+        <button class="btn btn-info" onclick="ayudaAmigo()">Llamar a un amigo</button>
+        <button class="btn btn-info" onclick="ayudaPublico()">Consultar al público</button>
+      </div>
+    </div>
+    <div class="row" id="tabla-premios">
+      <div class="col-md-12 text-center">
+        Puntaje: 0 | Tiempo: 30 segundos
+      </div>
+    </div>
+  </div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="js/juego.js"></script>
+</body>
+
+</html>
