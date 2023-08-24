@@ -10,7 +10,7 @@
             "Madrid",
             "París"
           ],
-          "correct": 2
+          "correct": 3
         },
         {
           "question": "¿En ServiceNow, qué es un 'incidente'?",
@@ -20,7 +20,7 @@
             "Una solicitud de cambio",
             "Una reunión programada"
           ],
-          "correct": 0
+          "correct": 1
         },
         {
           "question": "¿Cuál es el elemento más abundante en la atmósfera de la Tierra?",
@@ -30,7 +30,7 @@
             "Dióxido de Carbono",
             "Hidrógeno"
           ],
-          "correct": 0
+          "correct": 1
         },
         {
           "question": "¿Qué director dirigió la película 'Pulp Fiction'?",
@@ -40,7 +40,7 @@
             "Martin Scorsese",
             "Christopher Nolan"
           ],
-          "correct": 0
+          "correct": 1
         },
         {
           "question": "¿Qué banda es conocida como 'Los cuatro de Liverpool'?",
@@ -50,7 +50,7 @@
             "The Beatles",
             "Pink Floyd"
           ],
-          "correct": 1
+          "correct": 2
         },
         {
           "question": "¿Cuál es el superhéroe más conocido de DC Comics?",
@@ -60,7 +60,7 @@
             "Batman",
             "Captain America"
           ],
-          "correct": 1
+          "correct": 2
         },
         {
           "question": "¿En qué año se publicó el primer capítulo de 'Naruto' en la revista Weekly Shōnen Jump?",
@@ -70,7 +70,7 @@
             "1999",
             "2001"
           ],
-          "correct": 1
+          "correct": 2
         },
         {
           "question": "¿Qué tabla se utiliza para definir los campos de una tabla en ServiceNow?",
@@ -80,7 +80,7 @@
             "Sys_dictionary",
             "Sys_fields"
           ],
-          "correct": 1
+          "correct": 2
         },
         {
           "question": "¿Cuál es la moneda oficial de Japón?",
@@ -90,7 +90,7 @@
             "Won",
             "Dólar"
           ],
-          "correct": 0
+          "correct": 1
         },
         {
           "question": "¿Quién compuso la famosa pieza 'Claro de Luna'?",
@@ -100,7 +100,7 @@
             "Beethoven",
             "Bach"
           ],
-          "correct": 1
+          "correct": 2
         },
         {
           "question": "¿Qué película ganó el premio a la Mejor Película en los Oscar de 1994?",
@@ -110,7 +110,7 @@
             "The Shawshank Redemption",
             "Quiz Show"
           ],
-          "correct": -1
+          "correct": 0
         },
         {
           "question": "¿Qué personaje de cómic es conocido como el 'Hombre Murciélago'?",
@@ -120,7 +120,7 @@
             "Superman",
             "Iron Man"
           ],
-          "correct": 0
+          "correct": 1
         },
         {
           "question": "¿Cuál es el nombre del protagonista en el manga y anime 'Attack on Titan'?",
@@ -130,7 +130,7 @@
             "Eren Yeager",
             "Luffy"
           ],
-          "correct": 1
+          "correct": 2
         },
         {
           "question": "En ServiceNow, ¿qué se utiliza para automatizar flujos de trabajo?",
@@ -140,7 +140,7 @@
             "Script Includes",
             "UI Policies"
           ],
-          "correct": 0
+          "correct": 1
         },
         {
           "question": "¿Cuál es el idioma oficial de Brasil?",
@@ -150,7 +150,7 @@
             "Inglés",
             "Francés"
           ],
-          "correct": 0
+          "correct": 1
         },
         {
           "question": "¿Qué famoso músico fue asesinado frente a su casa en Nueva York en 1980?",
@@ -160,7 +160,7 @@
             "John Lennon",
             "Jimi Hendrix"
           ],
-          "correct": 1
+          "correct": 2
         },
         {
           "question": "¿Quién es el creador de los personajes de Marvel como Spider-Man, Iron Man y Thor?",
@@ -170,7 +170,7 @@
             "Jack Kirby",
             "Joe Simon"
           ],
-          "correct": 0
+          "correct": 1
         },
         {
           "question": "¿Quién es el autor de 'One Piece'?",
@@ -180,7 +180,7 @@
             "Eiichiro Oda",
             "Tite Kubo"
           ],
-          "correct": 1
+          "correct": 2
         },
         {
           "question": "En ServiceNow, ¿cuál es la herramienta que permite a los desarrolladores escribir y probar scripts?",
@@ -190,7 +190,7 @@
             "Studio",
             "Automation Console"
           ],
-          "correct": 0
+          "correct": 1
         },
         {
           "question": "¿Cuál es la montaña más alta del mundo?",
@@ -200,7 +200,7 @@
             "Mount McKinley",
             "Mount Everest"
           ],
-          "correct": 2
+          "correct": 3
         },
         {
           "question": "¿Qué banda es famosa por la canción 'Stairway to Heaven'?",
@@ -210,7 +210,7 @@
             "Pink Floyd",
             "The Rolling Stones"
           ],
-          "correct": 0
+          "correct": 1
         },
         {
           "question": "¿Qué superhéroe es conocido como el 'Hombre de Acero'?",
@@ -220,7 +220,7 @@
             "Iron Man",
             "Thor"
           ],
-          "correct": 0
+          "correct": 1
         },
         {
           "question": "¿Cuál es el nombre de la protagonista en el manga y anime 'Sailor Moon'?",
@@ -230,7 +230,7 @@
             "Rei Ayanami",
             "Sakura Kinomoto"
           ],
-          "correct": 0
+          "correct": 1
         },
         {
           "question": "En ServiceNow, ¿qué representa una 'Tabla'?",
@@ -250,7 +250,7 @@
             "Urano",
             "Neptuno"
           ],
-          "correct": 0
+          "correct": 1
         },
         {
           "question": "¿Quién es el compositor de 'La quinta sinfonía'?",
@@ -260,7 +260,7 @@
             "Chopin",
             "Brahms"
           ],
-          "correct": 0
+          "correct": 1
         },
         {
           "question": "¿Qué actriz interpretó el papel principal en la película 'Wonder Woman'?",
@@ -270,7 +270,7 @@
             "Margot Robbie",
             "Jennifer Lawrence"
           ],
-          "correct": 0
+          "correct": 1
         },
         {
           "question": "¿Cuál es el nombre del protagonista en el manga y anime 'Death Note'?",
@@ -280,7 +280,7 @@
             "Light Yagami",
             "Naruto Uzumaki"
           ],
-          "correct": 1
+          "correct": 2
         },
         {
           "question": "¿En ServiceNow, qué es una 'Regla de Negocio' (Business Rule)?",
@@ -290,7 +290,7 @@
             "Un script que se ejecuta cuando un registro es mostrado, insertado, actualizado o borrado",
             "Una política de interfaz de usuario"
           ],
-          "correct": 1
+          "correct": 2
         },
         {
           "question": "¿En qué país se encuentra la Torre Eiffel?",
@@ -300,7 +300,7 @@
             "Francia",
             "España"
           ],
-          "correct": 1
+          "correct": 2
         },
         {
           "question": "¿Quién es el cantante principal de la banda 'Queen'?",
@@ -310,7 +310,7 @@
             "Freddie Mercury",
             "John Lennon"
           ],
-          "correct": 1
+          "correct": 2
         },
         {
           "question": "¿Qué personaje de Marvel es conocido como el 'Hechicero Supremo'?",
@@ -330,7 +330,7 @@
             "Izuku Midoriya",
             "Saitama"
           ],
-          "correct": 1
+          "correct": 2
         },
         {
           "question": "En ServiceNow, ¿qué es una 'Actualización de Sistema' (System Update)?",
@@ -340,7 +340,7 @@
             "Una versión mejorada o parcheada del sistema",
             "Una regla de negocio"
           ],
-          "correct": 1
+          "correct": 2
         },
         {
           "question": "¿Cuál es el río más largo del mundo?",
@@ -360,7 +360,7 @@
             "Elton John",
             "Mick Jagger"
           ],
-          "correct": 0
+          "correct": 1
         },
         {
           "question": "¿Qué personaje de DC Comics es conocido como el 'Caballero Oscuro'?",
@@ -370,7 +370,7 @@
             "Batman",
             "Green Lantern"
           ],
-          "correct": 1
+          "correct": 2
         },
         {
           "question": "¿Cuál es el nombre del protagonista en el manga y anime 'Dragon Ball'?",
@@ -380,7 +380,7 @@
             "Luffy",
             "Goku"
           ],
-          "correct": 2
+          "correct": 3
         },
         {
           "question": "En ServiceNow, ¿qué es una 'Actualización Set' (Update Set)?",
@@ -400,7 +400,7 @@
             "China",
             "Corea"
           ],
-          "correct": 1
+          "correct": 2
         },
         {
           "question": "¿Qué banda es famosa por el álbum 'The Dark Side of the Moon'?",
@@ -410,7 +410,7 @@
             "Pink Floyd",
             "The Rolling Stones"
           ],
-          "correct": 1
+          "correct": 2
         },
         {
           "question": "¿Qué superhéroe es conocido como el 'Hombre Araña'?",
@@ -420,7 +420,7 @@
             "Superman",
             "Iron Man"
           ],
-          "correct": 0
+          "correct": 1
         },
         {
           "question": "¿Cuál es el nombre del protagonista en el manga y anime 'One Punch Man'?",
@@ -430,7 +430,7 @@
             "Ichigo",
             "Luffy"
           ],
-          "correct": 0
+          "correct": 1
         },
         {
           "question": "En ServiceNow, ¿cuál es el objetivo de un 'Informe' (Report)?",
@@ -440,7 +440,7 @@
             "Visualizar datos en varios formatos",
             "Ejecutar scripts complejos"
           ],
-          "correct": 1
+          "correct": 2
         },
         {
           "question": "¿En qué país se encuentra el Coliseo?",
@@ -450,7 +450,7 @@
             "Grecia",
             "Italia"
           ],
-          "correct": 2
+          "correct": 3
         }
       ]
     }
